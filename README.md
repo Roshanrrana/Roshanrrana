@@ -22,8 +22,7 @@ I enjoy working across the stack and continuously explore new technologies to gr
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/roshan-rana-09may2004/" target="_blank">roshan-rana</a>  
-- 💻 GitHub: <a href="https://github.com/Roshanrrana" target="_blank">Roshanrrana</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roshan-rana-09may2004/)
 ---
 
 ## 💻 Tech Stack
